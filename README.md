@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pablo Salom Pita</h1>
-<h3 align="center">🚀 Backend Developer | Java & Spring Boot</h3>
+<h3 align="center">🚀 Full-Stack Developer | Angular & Spring Boot</h3>
 
 - 🔭 I’m currently working on [Echoed](https://github.com/Salompablo/echoed-prog4-final), a website for music reviews
 
-- 🌱 I’m currently diving into **I'm currently diving into front-end development with Angular and microservices architecture on the backend**
-
-- 💬 Ask me about **Spring Boot, Java**
+- 💬 Ask me about **Spring Boot, Angular**
 
 - 📫 How to reach me **pablosalompita@gmail.com**
 
