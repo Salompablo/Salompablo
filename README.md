@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Junior Full-Stack Developer | Java & Angular</h3>
 
 <p align="center">
-  <em>Final-year student at UTN Mar del Plata, passionate about building web applications with Spring Boot and Angular.</em>
+  <em>University Technician in Programming – National Technological University (UTN), passionate about building web applications with Spring Boot and Angular.</em>
 </p>
 
 <p align="center">
