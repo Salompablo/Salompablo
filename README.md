@@ -18,13 +18,17 @@
 
 ### 👨‍💻 About Me
 
-I am currently finishing my **University Degree in Programming** (Tecnicatura Universitaria en Programación) at **UTN Mar del Plata**, submitting my final thesis in February 2026.
+I hold a University Degree in Programming (Tecnicatura Universitaria en Programación) from UTN Mar del Plata. I am passionate about software development and building robust architectures. I recently capped off my studies with the successful defense of a complex Full-Stack system (Spring Boot and Angular), validating my technical skills in real-world scenarios.
 
-My focus is on **Backend Development with Java** and **Full-Stack integration**. I have experience building RESTful APIs, managing databases, and deploying applications using modern cloud tools. I am eager to land my first professional role to apply my skills and continue learning.
+My backend expertise is complemented by a strong foundation in user interfaces, having completed a Front-End development bootcamp at Upgrade Hub (Madrid). This combination provides me with a comprehensive understanding of the entire software development lifecycle.
 
-- 🎓 **Education:** Tecnicatura Universitaria en Programación - UTN (Thesis pending).
-- 🔭 **Current Focus:** Polishing my portfolio and diving deeper into **Spring Boot Security**.
-- 💬 **Ask me about:** Java, Spring Boot, Angular, and SQL.
+I am currently seeking my first professional opportunity as a Junior Full-Stack Developer—ready to bring my commitment, a security-first mindset, and a strong drive to continue growing both technically and personally.
+
+🎓 Education: Tecnicatura Universitaria en Programación - UTN (Graduated).
+
+🔭 Current Focus: Seeking a Junior Full-Stack Developer role & diving deeper into Spring Boot Security.
+
+💬 Ask me about: Java, Spring Boot, Angular, and Secure API Design.
 
 ---
 
