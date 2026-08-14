@@ -22,11 +22,11 @@ I hold a University Degree in Programming (Tecnicatura Universitaria en Programa
 
 My backend expertise is complemented by a strong foundation in user interfaces, having completed a Front-End development bootcamp at Upgrade Hub (Madrid). This combination provides me with a comprehensive understanding of the entire software development lifecycle.
 
-I am currently seeking my first professional opportunity as a Junior Full-Stack Developer—ready to bring my commitment, a security-first mindset, and a strong drive to continue growing both technically and personally.
+I recently delivered my first professional freelance project: a full-stack B2C e-commerce platform deployed to the cloud for a local business (Bikes Asaro). This experience gave me hands-on exposure to real-world production deployments, cloud infrastructure (AWS S3 & Lightsail), payment gateway integration, and the challenges of shipping software for an actual client. I am now seeking a Junior Full-Stack Developer role at a company where I can keep growing while contributing this practical experience with real environments, deployments, and a security-first mindset.
 
 🎓 Education: Tecnicatura Universitaria en Programación - UTN (Graduated).
 
-🔭 Current Focus: Seeking a Junior Full-Stack Developer role & diving deeper into Spring Boot Security.
+🔭 Current Focus: Delivered my first professional freelance e-commerce project (Bikes Asaro) & actively seeking a Junior Full-Stack Developer role.
 
 💬 Ask me about: Java, Spring Boot, Angular, and Secure API Design.
 
@@ -36,6 +36,7 @@ I am currently seeking my first professional opportunity as a Junior Full-Stack 
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
+| **🚲 Bikes Asaro** | **B2C E-Commerce Platform (Freelance).**<br>A real full-stack e-commerce platform built and deployed for a local bicycle shop. Features a full product catalogue, shopping cart, secure payment processing (MercadoPago), and cloud-based image storage management. | `Java` `Spring Boot` `Angular` `PostgreSQL (Supabase)` `AWS S3` `AWS Lightsail` `Vercel` | 🟢 **Live**<br><a href="https://github.com/salompablo/bikes-asaro-front">Front Repo</a> \| <a href="https://github.com/salompablo/bikestore-api">Back Repo</a><br><a href="https://www.bikesasaro.com.ar">Live Demo</a> |
 | **🛡️ Sentinel** | **Infrastructure Monitoring System.**<br>Developed as a personal project to learn advanced concepts like WebSockets, Docker, and AI integration. Simulates a server farm and uses OpenAI to diagnose failures. | `Java 21` `Spring Boot` `MongoDB` `PostgreSQL` `Docker` `OpenAI API` `Angular` | 🟢 **Live**<br>[View Repo](https://github.com/salompablo/sentinel)<br>[Live Demo](https://sentinel-front-eight.vercel.app/) |
 | **🎵 Echoed** | **Music Review Social Platform (Final Thesis).**<br>A full-stack web application for music enthusiasts. Users can rate albums, write reviews, and interact with the community. | `Java` `Spring Boot` `Angular` `MySQL` `Bootstrap` `Vercel` `Render` | 🟢 **Live**<br>[View Repo](https://github.com/Salompablo/echoed-prog4-final)<br>[Live Demo](https://echoed-front.vercel.app/) |
 
@@ -49,6 +50,7 @@ I am currently seeking my first professional opportunity as a Junior Full-Stack 
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
@@ -56,6 +58,7 @@ I am currently seeking my first professional opportunity as a Junior Full-Stack 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
