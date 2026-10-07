@@ -22,11 +22,11 @@ I hold a University Degree in Programming (Tecnicatura Universitaria en Programa
 
 My backend expertise is complemented by a strong foundation in user interfaces, having completed a Front-End development bootcamp at Upgrade Hub (Madrid). This combination provides me with a comprehensive understanding of the entire software development lifecycle.
 
-I recently delivered my first professional freelance project: a full-stack B2C e-commerce platform deployed to the cloud for a local business (Bikes Asaro). This experience gave me hands-on exposure to real-world production deployments, cloud infrastructure (AWS S3 & Lightsail), payment gateway integration, and the challenges of shipping software for an actual client. I am now seeking a Junior Full-Stack Developer role at a company where I can keep growing while contributing this practical experience with real environments, deployments, and a security-first mindset.
+I built my first professional freelance project: a full-stack B2C e-commerce platform deployed to the cloud for a local business (Bikes Asaro), currently awaiting its official launch. This experience gave me hands-on exposure to real-world production deployments, cloud infrastructure (AWS S3 & Lightsail), payment gateway integration, and the challenges of shipping software for an actual client. I am now seeking a Junior Full-Stack Developer role at a company where I can keep growing while contributing this practical experience with real environments, deployments, and a security-first mindset.
 
 🎓 Education: Tecnicatura Universitaria en Programación - UTN (Graduated).
 
-🔭 Current Focus: Delivered my first professional freelance e-commerce project (Bikes Asaro) & actively seeking a Junior Full-Stack Developer role.
+🔭 Current Focus: Built and deployed my first freelance e-commerce project (Bikes Asaro) and actively seeking a Junior Full-Stack Developer role.
 
 💬 Ask me about: Java, Spring Boot, Angular, and Secure API Design.
 
@@ -36,9 +36,9 @@ I recently delivered my first professional freelance project: a full-stack B2C e
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **🚲 Bikes Asaro** | **B2C E-Commerce Platform (Freelance).**<br>A real full-stack e-commerce platform built and deployed for a local bicycle shop. Features a full product catalogue, shopping cart, secure payment processing (MercadoPago), and cloud-based image storage management. | `Java` `Spring Boot` `Angular` `PostgreSQL (Supabase)` `AWS S3` `AWS Lightsail` `Vercel` | 🟢 **Live**<br><a href="https://github.com/salompablo/bikes-asaro-front">Front Repo</a> \| <a href="https://github.com/salompablo/bikestore-api">Back Repo</a><br><a href="https://www.bikesasaro.com.ar">Live Demo</a> |
+| **🚲 Bikes Asaro** | **B2C E-Commerce Platform (Freelance).**<br>A full-stack e-commerce platform built and deployed for a local bicycle shop. Features a full product catalogue, shopping cart, Mercado Pago payment integration, and cloud-based image storage management. | `Java` `Spring Boot` `Angular` `PostgreSQL (Supabase)` `AWS S3` `AWS Lightsail` `Vercel` | 🟡 **Deployed, launch pending**<br><a href="https://github.com/salompablo/bikes-asaro-front">Front Repo</a> \| <a href="https://github.com/salompablo/bikestore-api">Back Repo</a><br><a href="https://www.bikesasaro.com.ar">Live Demo</a> |
 | **🛡️ Sentinel** | **Infrastructure Monitoring System.**<br>Developed as a personal project to learn advanced concepts like WebSockets, Docker, and AI integration. Simulates a server farm and uses OpenAI to diagnose failures. | `Java 21` `Spring Boot` `MongoDB` `PostgreSQL` `Docker` `OpenAI API` `Angular` | 🟢 **Live**<br>[View Repo](https://github.com/salompablo/sentinel)<br>[Live Demo](https://sentinel-front-eight.vercel.app/) |
-| **🎵 Echoed** | **Music Review Social Platform (Final Thesis).**<br>A full-stack web application for music enthusiasts. Users can rate albums, write reviews, and interact with the community. | `Java` `Spring Boot` `Angular` `MySQL` `Bootstrap` `Vercel` `Render` | 🟢 **Live**<br>[View Repo](https://github.com/Salompablo/echoed-prog4-final)<br>[Live Demo](https://echoed-front.vercel.app/) |
+| **🎵 Echoed** | **Music Review Social Platform (Final Thesis).**<br>A full-stack web application for music enthusiasts. Users can rate albums, write reviews, and interact with the community. | `Java` `Spring Boot` `Angular` `PostgreSQL (Supabase)` `Bootstrap` `Vercel` `Render` | 🟢 **Live**<br>[View Repo](https://github.com/Salompablo/echoed-prog4-final)<br>[Live Demo](https://echoed-front.vercel.app/) |
 
 ---
 
